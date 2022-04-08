@@ -1,40 +1,36 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sc-durban.sc-durban">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Star+College+Durban&center=true&size=30">
   </a>
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  <a href="https://img.shields.io/website?url=https%3A%2F%2Fstarcollegedurban.me"><img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!--
+  <a href="https://twitter.com/BrunoTacca"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://lattes.cnpq.br/5511556848445955"><img src="https://img.shields.io/badge/lattes-FFFFFF.svg?&style=for-the-badge&&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACEFBMVEUAAAApQ14nQFj////r7/O8xMu8xMwnQlwmP1eeqLQjO1I2WHu1vsZjdYcsS2p4h5avuMI2XIPByM44ZJCbqrk1YYwtVn5mjrcxW4UwWIAvW4YAAAUrX5EvY5ksXIspW438/P0lU4EoV4ZhhKfe5u4nPVQqQlspQVsiO1QLJUAgNEkrRmEzUnI7X4Q/Y4dLZoJWbIJsfY7Axs4tS2k7YYicutixwtO5xM/U2d7r7e8hOFA6YoqErdWBnLc+Y4guT3E7VGw9U2hufY0wU3ZCcqKGqMlZgalKa4x0h5pofJD///80XYVCdal1l7t1nMNOhr6is8VMa4muusUlSGtDdqlQeaSqu8yGrNKVtte4zN90jqhBapObrL3///9Tfad4nMF9oshskLOJnK95gIZldodEX3oxW4ajtcf///8tVXw4YYlDa5JEbZY8XX0hPlsgQmS6ydj///8uWIEuX4/r7/QvYpcuZJrV3+r///8oWYsoXZKMqcbe5u7///8VN1YnWYyKp8PI1uP5+vz///9Rd52sv9Pd5e3///////9MfrBeksdOgrdUjslPh8FNhsFFea5BcaFJgrtHgLlGgLpii7VJf7dCerNDc6MqVYA0aZ1IeKktX5EtX5AsXY0tXY0wY5YyaZ4yaaB7ncAtZJouZJouZJssY5ovZZtrkbgnXZMlXJIoXpREc6I0ZZZTfaf///+qBrbaAAAAiXRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIl5fNRAFYND19Om8Zg5R7/zSmW8hCar98/DIVDYSE8r47OKPdgQRw+2x+7fQOgWa+G9+197Q/IsBVNrz/aQjWLL1sAw+5vbu7d3urAsQvHhn+7gbIdj2pCQCie64Wg0qqZVMEWJdG8oAAAABYktHRAMRDEzyAAAACXBIWXMAAAsSAAALEgHS3X78AAAAB3RJTUUH5QISCjIeEGUAIQAAAAFvck5UAc+id5oAAADXSURBVAjXY2BgZGJWVVPX0GRhZWNgYGDn0NLW0dXTNzA04gRyubiNTTq7TM3MLSx5eBkY+Kysu3tsbO3sHRyd+AUYBJ1devtc3fonuHt4egkxCHv7TJzk6+c/eUpAYJAIg2hwyNRpoWHhEZFR0TGxDGLicfEJiUnJKalp09MzGCQkM7Oyc3Lz8mfMnFVQyMAgVVQ8e87cefMXLFxUIs3AICNbWrZ4ydJly1eUVzAzMMjJV1atXLV6TXVNrQKQy6BYV792XUNjUzMzM4irpNzS2tbeoQLiAQAJLzuSRlKzowAAABZ0RVh0Q3JlYXRpb24gVGltZQAwNi8xOC8xMnLMg2gAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMDItMThUMTA6NTA6MTQrMDA6MDBPCDl2AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTAyLTE4VDEwOjUwOjE0KzAwOjAwPlWBygAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAASUVORK5CYII=" />
+  </a>
+  -->
 </p>
 
+<br>
+<p align="center">
+  Star Colleges Durban is an independent school established by Horizon Educational Trust in South Africa.
+  <br>
+  <br>
+  Star College is committed to empowering learners to achieve their goals and realize their true potential through HOLISTIC APPROACH, UNIVERSAL VALUES and QUALITY EDUCATION.
+  <br>
+  <img align="right" src="http://starcollege.co.za/wp-content/uploads/2022/02/5.png">
+  
+</p>
+<br>
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">Languages & Frameworks & Tools</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
@@ -69,30 +65,11 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center"Repositories</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
